@@ -1,0 +1,1 @@
+# singletonPattern-thread-safe
